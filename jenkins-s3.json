@@ -53,7 +53,7 @@
 					"WebsiteURL"
 				]
 			},
-			"Description": "URL for website hosted on S3 Bucket Mike"
+			"Description": "URL for website hosted on S3 Bucket"
 		},
 		"S3BucketSecureURL": {
 			"Value": {
